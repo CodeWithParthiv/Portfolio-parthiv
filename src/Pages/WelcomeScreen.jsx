@@ -16,7 +16,7 @@ const TypewriterEffect = ({ text }) => {
       } else {
         clearInterval(timer);
       }
-    }, 260);
+    }, 130);
     
     return () => clearInterval(timer);
   }, [text]);
@@ -153,7 +153,7 @@ const WelcomeScreen = ({ onLoadingComplete }) => {
               >
                 <a
                   href="https://portfolio-parthiv.vercel.app"
-                  className="inline-flex items-center gap-2 px-4 py-2 sm:px-6 sm:py-3 rounded-full relative group hover:scale-105 transition-transform duration-200"
+                  className="inline-flex items-center gap-2 px-4 py-2 sm:px-6 sm:py-3 rounded-full relative group hover:scale-105 transition-transform duration-300"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
