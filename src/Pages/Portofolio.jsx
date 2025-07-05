@@ -102,7 +102,7 @@ function a11yProps(index) {
 
 const techStacks = [
   { icon: "python-svgrepo-com (1).svg", language: "Python" },
-  { icon: "c-plus-plus-programming-language-icon.svg", language: "C++" },
+  { icon: "cprogramming.svg", language: "C" },
   { icon: "mongodb-icon.svg", language: "MongoDB" },
   { icon: "aws-icon.svg", language: "AWS" },
   { icon: "google-tensorflow-icon.svg", language: "TensorFlow" },
@@ -112,7 +112,12 @@ const techStacks = [
   { icon: "postgresql-icon.svg", language: "PostgreSQL" },
   { icon: "microsoft-excel-icon.svg", language: "EXCEL" },
   { icon: "java-programming-language-icon.svg", language: "Java" },
-  { icon: "git-icon.svg", language: "Git" },
+  { icon: "django.svg", language: "Django" },
+  { icon: "flask.svg", language: "Flask" },
+  { icon: "numpy.svg", language: "Numpy" },
+  { icon: "pandas.svg", language: "Pandas" },
+  { icon: "matplotlib.svg", language: "Matplotlib" },
+  { icon: "jupyter.svg", language: "Jupyter" },
 ];
 
 export default function FullWidthTabs() {
