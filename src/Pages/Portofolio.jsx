@@ -102,7 +102,7 @@ function a11yProps(index) {
 
 const techStacks = [
   { icon: "python-svgrepo-com (1).svg", language: "Python" },
-  { icon: "c-programming.svg", language: "C" },
+  { icon: "c-plus-plus-programming-language-icon.svg", language: "C++" },
   { icon: "mongodb-icon.svg", language: "MongoDB" },
   { icon: "aws-icon.svg", language: "AWS" },
   { icon: "google-tensorflow-icon.svg", language: "TensorFlow" },
