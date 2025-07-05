@@ -112,12 +112,13 @@ const techStacks = [
   { icon: "postgresql-icon.svg", language: "PostgreSQL" },
   { icon: "microsoft-excel-icon.svg", language: "EXCEL" },
   { icon: "java-programming-language-icon.svg", language: "Java" },
-  { icon: "django.svg", language: "Django" },
-  { icon: "flask.svg", language: "Flask" },
+  { icon: "djangowhite.svg", language: "Django" },
+  { icon: "flaskwhite.svg", language: "Flask" },
   { icon: "numpy.svg", language: "Numpy" },
   { icon: "pandas.svg", language: "Pandas" },
   { icon: "matplotlib.svg", language: "Matplotlib" },
   { icon: "jupyter.svg", language: "Jupyter" },
+  { icon: "docker.svg", language: "Docker" },
 ];
 
 export default function FullWidthTabs() {
